@@ -34,8 +34,6 @@ Example:mysql -u username -p database_name < dump_file.sql
 * Once everything is setup run : streamlit run main.py
 
 Performing CRUD Operations
-Execute the respective Python scripts for CRUD operations:
-
 Create_d.py for inserting new values into tables.
 Read_d.py for reading data from tables.
 Update_d.py for updating tuples within tables.
