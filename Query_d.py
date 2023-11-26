@@ -6,7 +6,7 @@ import mysql.connector
 mydb = mysql.connector.connect(
     host='localhost',
     user='root',
-    password='PROhacker007@',
+    password='#########',
     database = 'economy'
 )
 
@@ -23,7 +23,7 @@ def query():
         mydb = mysql.connector.connect(
             host='localhost',
             user='root',
-            password='PROhacker007@',
+            password='#########',
             database = 'economy'
         ) 
         c = mydb.cursor()   
@@ -176,7 +176,7 @@ def query():
         mydb = mysql.connector.connect(
             host='localhost',
             user='root',
-            password='PROhacker007@',
+            password='#########',
             database = 'economy'
         ) 
         c = mydb.cursor()
@@ -255,7 +255,7 @@ def query():
         mydb = mysql.connector.connect(
             host='localhost',
             user='root',
-            password='PROhacker007@',
+            password='#########',
             database = 'economy'
         ) 
         c = mydb.cursor()
@@ -1009,7 +1009,7 @@ def query():
             mydb = mysql.connector.connect(
                 host='localhost',
                 user='root',
-                password='PROhacker007@',
+                password='#########',
                 database = 'economy'
             )
             c = mydb.cursor()
@@ -1072,7 +1072,7 @@ def query():
             mydb = mysql.connector.connect(
                 host='localhost',
                 user='root',
-                password='PROhacker007@',
+                password='#########',
                 database = 'economy'
             )
             c = mydb.cursor()
@@ -1134,7 +1134,7 @@ def query():
                 mydb = mysql.connector.connect(
                         host='localhost',
                         user='root',
-                        password='PROhacker007@',
+                        password='#########',
                         database = 'economy'
                     )
                 c = mydb.cursor()
@@ -1200,7 +1200,7 @@ def query():
             mydb = mysql.connector.connect(
                         host='localhost',
                         user='root',
-                        password='PROhacker007@',
+                        password='#########',
                         database = 'economy'
             )
             
@@ -1241,7 +1241,7 @@ def query():
             mydb = mysql.connector.connect(
                         host='localhost',
                         user='root',
-                        password='PROhacker007@',
+                        password='#########',
                         database = 'economy'
             )
             
